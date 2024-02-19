@@ -1,2 +1,3 @@
-# Sign Language to Text Editor
- 
+# SIGN-LANGUAGE-TO-TEXT-CONVERTER
+A sign language to text converter is a remarkable tool that bridges the communication gap between individuals who are deaf or hard of hearing and those who use spoken languages. This technology recognizes and translates sign language gestures into written text, enabling seamless communication and understanding.
+The converter examines the signer's body finger signs using a combination of computer vision and machine learning techniques. It then converts these visual cues into the appropriate words or phrases, producing a precise translation of the sign language message into writing.
